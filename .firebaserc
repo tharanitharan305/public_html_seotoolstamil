@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "tamilgamz",
+    "y": "mysite-19669",
+    "portfolio": "mysite-64fd6",
+    "staging": "portfolio-1b995"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
