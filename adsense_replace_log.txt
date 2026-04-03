@@ -1,0 +1,2129 @@
+AdSense Replace Log — 2026-04-03 10:23:26.703175
+New Publisher ID : ca-pub-3062335757209999
+
+  ⏭️   15-puzzle-collect-numbers\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   15-puzzle-collect-numbers\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  15-puzzle-collect-numbers\index.html  →  stray IDs replaced
+  ⏭️   1941-frozen-front\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   1941-frozen-front\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  1941-frozen-front\index.html  →  stray IDs replaced
+  ⏭️   1up-gunman\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   1up-gunman\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  1up-gunman\index.html  →  stray IDs replaced
+  ⏭️   2048-bears\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   2048-bears\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  2048-bears\index.html  →  stray IDs replaced
+  ⏭️   2048-cube-shooting-merge\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   2048-cube-shooting-merge\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  2048-cube-shooting-merge\index.html  →  stray IDs replaced
+  ⏭️   2048-drop-merge\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   2048-drop-merge\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  2048-drop-merge\index.html  →  stray IDs replaced
+  ⏭️   2048-number-ball\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   2048-number-ball\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  2048-number-ball\index.html  →  stray IDs replaced
+  ⏭️   2048-x2-merge-blocks\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   2048-x2-merge-blocks\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  2048-x2-merge-blocks\index.html  →  stray IDs replaced
+  ⏭️   20482048\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   20482048\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  20482048\index.html  →  stray IDs replaced
+  ⏭️   3d-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   3d-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  3d-mania\index.html  →  stray IDs replaced
+  ⏭️   4-in-row-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   4-in-row-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  4-in-row-mania\index.html  →  stray IDs replaced
+  ⏭️   8-bit-console-tank\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   8-bit-console-tank\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  8-bit-console-tank\index.html  →  stray IDs replaced
+  ⏭️   9x9-rotate-and-flip\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   9x9-rotate-and-flip\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  9x9-rotate-and-flip\index.html  →  stray IDs replaced
+  ⏭️   a-mole-in-a-hole\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   a-mole-in-a-hole\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  a-mole-in-a-hole\index.html  →  stray IDs replaced
+  ✅  about-us\index.html  →  stray IDs replaced
+  ⏭️   adventure-quiz\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   adventure-quiz\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  adventure-quiz\index.html  →  stray IDs replaced
+  ⏭️   aeroplane-chess\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   aeroplane-chess\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  aeroplane-chess\index.html  →  stray IDs replaced
+  ⏭️   agent-cameraman-skibidi-toilet\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   agent-cameraman-skibidi-toilet\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  agent-cameraman-skibidi-toilet\index.html  →  stray IDs replaced
+  ⏭️   agent-t-action-shooter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   agent-t-action-shooter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  agent-t-action-shooter\index.html  →  stray IDs replaced
+  ⏭️   air-force-commando-online-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   air-force-commando-online-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  air-force-commando-online-game\index.html  →  stray IDs replaced
+  ⏭️   air-force-commando-online-game-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   air-force-commando-online-game-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  air-force-commando-online-game-2\index.html  →  stray IDs replaced
+  ⏭️   air-war\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   air-war\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  air-war\index.html  →  stray IDs replaced
+  ⏭️   air-warfare\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   air-warfare\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  air-warfare\index.html  →  stray IDs replaced
+  ⏭️   aircraft-space-turret\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   aircraft-space-turret\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  aircraft-space-turret\index.html  →  stray IDs replaced
+  ⏭️   alexwoman-summer-time\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alexwoman-summer-time\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alexwoman-summer-time\index.html  →  stray IDs replaced
+  ⏭️   alien-attack\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alien-attack\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alien-attack\index.html  →  stray IDs replaced
+  ⏭️   alien-evolution\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alien-evolution\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alien-evolution\index.html  →  stray IDs replaced
+  ⏭️   alien-shooter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alien-shooter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alien-shooter\index.html  →  stray IDs replaced
+  ⏭️   alienanza\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alienanza\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alienanza\index.html  →  stray IDs replaced
+  ⏭️   all-seasons-nail-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   all-seasons-nail-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  all-seasons-nail-salon\index.html  →  stray IDs replaced
+  ⏭️   aloo\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   aloo\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  aloo\index.html  →  stray IDs replaced
+  ⏭️   aloo-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   aloo-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  aloo-2\index.html  →  stray IDs replaced
+  ⏭️   aloo-3\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   aloo-3\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  aloo-3\index.html  →  stray IDs replaced
+  ⏭️   alphabet-merge-runner\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   alphabet-merge-runner\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  alphabet-merge-runner\index.html  →  stray IDs replaced
+  ⏭️   amazing-digital-circus-puzzles\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   amazing-digital-circus-puzzles\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  amazing-digital-circus-puzzles\index.html  →  stray IDs replaced
+  ⏭️   amazing-fruit-pictures-for-kids\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   amazing-fruit-pictures-for-kids\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  amazing-fruit-pictures-for-kids\index.html  →  stray IDs replaced
+  ⏭️   among-tito\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   among-tito\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  among-tito\index.html  →  stray IDs replaced
+  ⏭️   among-tito-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   among-tito-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  among-tito-2\index.html  →  stray IDs replaced
+  ⏭️   among-zombie\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   among-zombie\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  among-zombie\index.html  →  stray IDs replaced
+  ⏭️   among-zombie-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   among-zombie-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  among-zombie-2\index.html  →  stray IDs replaced
+  ⏭️   andys-factory\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   andys-factory\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  andys-factory\index.html  →  stray IDs replaced
+  ⏭️   angry-bird-jump\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   angry-bird-jump\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  angry-bird-jump\index.html  →  stray IDs replaced
+  ⏭️   angry-city-smasher\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   angry-city-smasher\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  angry-city-smasher\index.html  →  stray IDs replaced
+  ⏭️   animal-ice-cream-shop\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   animal-ice-cream-shop\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  animal-ice-cream-shop\index.html  →  stray IDs replaced
+  ⏭️   anime-couple-dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   anime-couple-dress-up\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  anime-couple-dress-up\index.html  →  stray IDs replaced
+  ⏭️   anime-dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   anime-dress-up\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  anime-dress-up\index.html  →  stray IDs replaced
+  ⏭️   ant-colony\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ant-colony\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ant-colony\index.html  →  stray IDs replaced
+  ⏭️   ant-squisher-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ant-squisher-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ant-squisher-2\index.html  →  stray IDs replaced
+  ⏭️   ants\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ants\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ants\index.html  →  stray IDs replaced
+  ⏭️   archer-2023\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   archer-2023\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  archer-2023\index.html  →  stray IDs replaced
+  ⏭️   archer-hero\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   archer-hero\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  archer-hero\index.html  →  stray IDs replaced
+  ⏭️   archery-bastions-castle-war\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   archery-bastions-castle-war\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  archery-bastions-castle-war\index.html  →  stray IDs replaced
+  ⏭️   arctic-ale\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   arctic-ale\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  arctic-ale\index.html  →  stray IDs replaced
+  ⏭️   arsenal-online\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   arsenal-online\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  arsenal-online\index.html  →  stray IDs replaced
+  ⏭️   artic-fishing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   artic-fishing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  artic-fishing\index.html  →  stray IDs replaced
+  ⏭️   asmr-antistress-relaxation-toys\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   asmr-antistress-relaxation-toys\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  asmr-antistress-relaxation-toys\index.html  →  stray IDs replaced
+  ⏭️   asmr-girl-organization\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   asmr-girl-organization\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  asmr-girl-organization\index.html  →  stray IDs replaced
+  ⏭️   asmr-makeup-spa-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   asmr-makeup-spa-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  asmr-makeup-spa-salon\index.html  →  stray IDs replaced
+  ⏭️   asmr-washing-fixing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   asmr-washing-fixing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  asmr-washing-fixing\index.html  →  stray IDs replaced
+  ⏭️   assault-on-the-evil-star\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   assault-on-the-evil-star\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  assault-on-the-evil-star\index.html  →  stray IDs replaced
+  ⏭️   asteroid-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   asteroid-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  asteroid-2\index.html  →  stray IDs replaced
+  ⏭️   attack-zombie\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   attack-zombie\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  attack-zombie\index.html  →  stray IDs replaced
+  ⏭️   avatar-master-fix-up-face\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   avatar-master-fix-up-face\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  avatar-master-fix-up-face\index.html  →  stray IDs replaced
+  ⏭️   avatar-master-fix-up-face-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   avatar-master-fix-up-face-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  avatar-master-fix-up-face-2\index.html  →  stray IDs replaced
+  ⏭️   baby-ava-daily-activities\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   baby-ava-daily-activities\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  baby-ava-daily-activities\index.html  →  stray IDs replaced
+  ⏭️   baby-games-for-preschool-kids\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   baby-games-for-preschool-kids\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  baby-games-for-preschool-kids\index.html  →  stray IDs replaced
+  ⏭️   baby-panda-pet-care-center\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   baby-panda-pet-care-center\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  baby-panda-pet-care-center\index.html  →  stray IDs replaced
+  ⏭️   bakery-stack-cooking-games\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bakery-stack-cooking-games\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bakery-stack-cooking-games\index.html  →  stray IDs replaced
+  ⏭️   baking-cooking-fun\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   baking-cooking-fun\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  baking-cooking-fun\index.html  →  stray IDs replaced
+  ⏭️   ball-and-target\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ball-and-target\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ball-and-target\index.html  →  stray IDs replaced
+  ⏭️   ball-crush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ball-crush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ball-crush\index.html  →  stray IDs replaced
+  ⏭️   ball-popping-games\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ball-popping-games\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ball-popping-games\index.html  →  stray IDs replaced
+  ⏭️   ball-thrower-hyper-casual-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ball-thrower-hyper-casual-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ball-thrower-hyper-casual-game\index.html  →  stray IDs replaced
+  ⏭️   ballmania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ballmania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ballmania\index.html  →  stray IDs replaced
+  ⏭️   ballmania-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ballmania-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ballmania-2\index.html  →  stray IDs replaced
+  ⏭️   balloon-ascending\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   balloon-ascending\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  balloon-ascending\index.html  →  stray IDs replaced
+  ⏭️   balloon-crack\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   balloon-crack\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  balloon-crack\index.html  →  stray IDs replaced
+  ⏭️   balloon-match-color-match\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   balloon-match-color-match\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  balloon-match-color-match\index.html  →  stray IDs replaced
+  ⏭️   balloon-match-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   balloon-match-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  balloon-match-master\index.html  →  stray IDs replaced
+  ⏭️   bananamania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bananamania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bananamania\index.html  →  stray IDs replaced
+  ⏭️   bapbap\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bapbap\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bapbap\index.html  →  stray IDs replaced
+  ⏭️   barbara-kent\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   barbara-kent\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  barbara-kent\index.html  →  stray IDs replaced
+  ⏭️   barbara-kent-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   barbara-kent-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  barbara-kent-2\index.html  →  stray IDs replaced
+  ⏭️   barbiemania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   barbiemania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  barbiemania\index.html  →  stray IDs replaced
+  ⏭️   basketball-stars\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   basketball-stars\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  basketball-stars\index.html  →  stray IDs replaced
+  ⏭️   battalion-commander\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battalion-commander\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battalion-commander\index.html  →  stray IDs replaced
+  ⏭️   battalion-commander-1917\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battalion-commander-1917\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battalion-commander-1917\index.html  →  stray IDs replaced
+  ⏭️   battalion-commander-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battalion-commander-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battalion-commander-2\index.html  →  stray IDs replaced
+  ⏭️   battle-simluator-counter-stickman\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battle-simluator-counter-stickman\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battle-simluator-counter-stickman\index.html  →  stray IDs replaced
+  ⏭️   battle-simulator-police-prison\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battle-simulator-police-prison\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battle-simulator-police-prison\index.html  →  stray IDs replaced
+  ⏭️   battle-simulator-stickman-zombie\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   battle-simulator-stickman-zombie\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  battle-simulator-stickman-zombie\index.html  →  stray IDs replaced
+  ⏭️   beenvaders\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   beenvaders\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  beenvaders\index.html  →  stray IDs replaced
+  ⏭️   bff-stylish-off-shoulder-outfits\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bff-stylish-off-shoulder-outfits\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bff-stylish-off-shoulder-outfits\index.html  →  stray IDs replaced
+  ⏭️   bff-summer-vibes\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bff-summer-vibes\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bff-summer-vibes\index.html  →  stray IDs replaced
+  ⏭️   big-donuts-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   big-donuts-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  big-donuts-mania\index.html  →  stray IDs replaced
+  ⏭️   big-farming-fun\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   big-farming-fun\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  big-farming-fun\index.html  →  stray IDs replaced
+  ⏭️   big-shark\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   big-shark\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  big-shark\index.html  →  stray IDs replaced
+  ⏭️   bike-mania-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bike-mania-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bike-mania-2\index.html  →  stray IDs replaced
+  ⏭️   bike-mania-3-on-ice\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bike-mania-3-on-ice\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bike-mania-3-on-ice\index.html  →  stray IDs replaced
+  ⏭️   bike-stunt-bmx-simulator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bike-stunt-bmx-simulator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bike-stunt-bmx-simulator\index.html  →  stray IDs replaced
+  ⏭️   birdy-bird\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   birdy-bird\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  birdy-bird\index.html  →  stray IDs replaced
+  ⏭️   black-and-white-stickman\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   black-and-white-stickman\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  black-and-white-stickman\index.html  →  stray IDs replaced
+  ⏭️   black-white-escape-cars\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   black-white-escape-cars\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  black-white-escape-cars\index.html  →  stray IDs replaced
+  ⏭️   blackriver-mystery-hidden-objects\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blackriver-mystery-hidden-objects\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blackriver-mystery-hidden-objects\index.html  →  stray IDs replaced
+  ⏭️   blast-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blast-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blast-mania\index.html  →  stray IDs replaced
+  ⏭️   blastman\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blastman\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blastman\index.html  →  stray IDs replaced
+  ⏭️   bless-magic\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bless-magic\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bless-magic\index.html  →  stray IDs replaced
+  ⏭️   blind-boat-shooting-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blind-boat-shooting-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blind-boat-shooting-master\index.html  →  stray IDs replaced
+  ⏭️   blob-merge-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blob-merge-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blob-merge-3d\index.html  →  stray IDs replaced
+  ⏭️   block-breaker-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   block-breaker-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  block-breaker-game\index.html  →  stray IDs replaced
+  ⏭️   block-painter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   block-painter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  block-painter\index.html  →  stray IDs replaced
+  ⏭️   block-puzzle-merge\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   block-puzzle-merge\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  block-puzzle-merge\index.html  →  stray IDs replaced
+  ⏭️   block-vs-block-ii\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   block-vs-block-ii\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  block-vs-block-ii\index.html  →  stray IDs replaced
+  ⏭️   blockman-climb-2-player\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blockman-climb-2-player\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blockman-climb-2-player\index.html  →  stray IDs replaced
+  ⏭️   blockmatch\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blockmatch\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blockmatch\index.html  →  stray IDs replaced
+  ⏭️   blockpuz-block-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blockpuz-block-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blockpuz-block-puzzle\index.html  →  stray IDs replaced
+  ⏭️   blockpuzzle-color-blast\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blockpuzzle-color-blast\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blockpuzzle-color-blast\index.html  →  stray IDs replaced
+  ⏭️   blocks-of-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blocks-of-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blocks-of-puzzle\index.html  →  stray IDs replaced
+  ⏭️   blocks-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blocks-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blocks-puzzle\index.html  →  stray IDs replaced
+  ⏭️   blocks-puzzle-zoo\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blocks-puzzle-zoo\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blocks-puzzle-zoo\index.html  →  stray IDs replaced
+  ⏭️   blondy-in-pink\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blondy-in-pink\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blondy-in-pink\index.html  →  stray IDs replaced
+  ⏭️   blop\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blop\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blop\index.html  →  stray IDs replaced
+  ⏭️   blow-out-bomb-blast-ninja\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blow-out-bomb-blast-ninja\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blow-out-bomb-blast-ninja\index.html  →  stray IDs replaced
+  ⏭️   bloxdhop\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bloxdhop\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bloxdhop\index.html  →  stray IDs replaced
+  ⏭️   bloxy-block-parkour\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bloxy-block-parkour\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bloxy-block-parkour\index.html  →  stray IDs replaced
+  ⏭️   blueguy-escape\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   blueguy-escape\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  blueguy-escape\index.html  →  stray IDs replaced
+  ⏭️   bobbys-bolts\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bobbys-bolts\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bobbys-bolts\index.html  →  stray IDs replaced
+  ⏭️   body-drop-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   body-drop-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  body-drop-3d\index.html  →  stray IDs replaced
+  ⏭️   bomberman-emoji\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bomberman-emoji\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bomberman-emoji\index.html  →  stray IDs replaced
+  ⏭️   boneless\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   boneless\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  boneless\index.html  →  stray IDs replaced
+  ⏭️   book-of-ra-slot-machine\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   book-of-ra-slot-machine\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  book-of-ra-slot-machine\index.html  →  stray IDs replaced
+  ⏭️   book-of-treasures-2-slots\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   book-of-treasures-2-slots\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  book-of-treasures-2-slots\index.html  →  stray IDs replaced
+  ⏭️   bop-the-blox\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bop-the-blox\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bop-the-blox\index.html  →  stray IDs replaced
+  ⏭️   bottle-flip\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bottle-flip\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bottle-flip\index.html  →  stray IDs replaced
+  ⏭️   bowling-boom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bowling-boom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bowling-boom\index.html  →  stray IDs replaced
+  ⏭️   bowling-hero-multiplayer\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bowling-hero-multiplayer\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bowling-hero-multiplayer\index.html  →  stray IDs replaced
+  ⏭️   bowling-pipe\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bowling-pipe\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bowling-pipe\index.html  →  stray IDs replaced
+  ⏭️   boxbulletcraft\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   boxbulletcraft\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  boxbulletcraft\index.html  →  stray IDs replaced
+  ⏭️   brain-doctor\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brain-doctor\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brain-doctor\index.html  →  stray IDs replaced
+  ⏭️   brain-puzzle-tricky-choices\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brain-puzzle-tricky-choices\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brain-puzzle-tricky-choices\index.html  →  stray IDs replaced
+  ⏭️   brain-trainer\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brain-trainer\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brain-trainer\index.html  →  stray IDs replaced
+  ⏭️   brain-trainer-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brain-trainer-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brain-trainer-2\index.html  →  stray IDs replaced
+  ⏭️   brazen-ball\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brazen-ball\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brazen-ball\index.html  →  stray IDs replaced
+  ⏭️   brazil-vs-argentina-challenge\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brazil-vs-argentina-challenge\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brazil-vs-argentina-challenge\index.html  →  stray IDs replaced
+  ⏭️   brick-breaker-endless\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brick-breaker-endless\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brick-breaker-endless\index.html  →  stray IDs replaced
+  ⏭️   brick-out-candy\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brick-out-candy\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brick-out-candy\index.html  →  stray IDs replaced
+  ⏭️   bricks-crusher-breaker-ball\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bricks-crusher-breaker-ball\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bricks-crusher-breaker-ball\index.html  →  stray IDs replaced
+  ⏭️   brickscape-breakout-adventure\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brickscape-breakout-adventure\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brickscape-breakout-adventure\index.html  →  stray IDs replaced
+  ⏭️   bridge-of-doom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bridge-of-doom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bridge-of-doom\index.html  →  stray IDs replaced
+  ⏭️   bridge-runner\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bridge-runner\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bridge-runner\index.html  →  stray IDs replaced
+  ⏭️   brokun\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brokun\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brokun\index.html  →  stray IDs replaced
+  ⏭️   brokun-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   brokun-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  brokun-2\index.html  →  stray IDs replaced
+  ⏭️   bubble-classic\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-classic\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-classic\index.html  →  stray IDs replaced
+  ⏭️   bubble-fever-blast\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-fever-blast\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-fever-blast\index.html  →  stray IDs replaced
+  ⏭️   bubble-pets-shooter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-pets-shooter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-pets-shooter\index.html  →  stray IDs replaced
+  ⏭️   bubble-pirates-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-pirates-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-pirates-mania\index.html  →  stray IDs replaced
+  ⏭️   bubble-pop\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-pop\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-pop\index.html  →  stray IDs replaced
+  ⏭️   bubble-runner\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-runner\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-runner\index.html  →  stray IDs replaced
+  ⏭️   bubble-shooter-boom-blaster\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-shooter-boom-blaster\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-shooter-boom-blaster\index.html  →  stray IDs replaced
+  ⏭️   bubble-shooter-space\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-shooter-space\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-shooter-space\index.html  →  stray IDs replaced
+  ⏭️   bubble-touch\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-touch\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-touch\index.html  →  stray IDs replaced
+  ⏭️   bubble-tower-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-tower-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-tower-3d\index.html  →  stray IDs replaced
+  ⏭️   bubble-tower-3d-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bubble-tower-3d-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bubble-tower-3d-2\index.html  →  stray IDs replaced
+  ⏭️   build-a-snowman\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   build-a-snowman\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  build-a-snowman\index.html  →  stray IDs replaced
+  ⏭️   building-stacking\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   building-stacking\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  building-stacking\index.html  →  stray IDs replaced
+  ⏭️   bullet-and-cry-in-space\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bullet-and-cry-in-space\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bullet-and-cry-in-space\index.html  →  stray IDs replaced
+  ⏭️   bunny-adventure\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bunny-adventure\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bunny-adventure\index.html  →  stray IDs replaced
+  ⏭️   burst-the-balloon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   burst-the-balloon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  burst-the-balloon\index.html  →  stray IDs replaced
+  ⏭️   bus-parking-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bus-parking-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bus-parking-3d\index.html  →  stray IDs replaced
+  ⏭️   bus-parking-3d-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bus-parking-3d-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bus-parking-3d-2\index.html  →  stray IDs replaced
+  ⏭️   bushman-bamboo\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   bushman-bamboo\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  bushman-bamboo\index.html  →  stray IDs replaced
+  ⏭️   butterfly-shimai\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   butterfly-shimai\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  butterfly-shimai\index.html  →  stray IDs replaced
+  ⏭️   caillou-chef\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   caillou-chef\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  caillou-chef\index.html  →  stray IDs replaced
+  ⏭️   cake-shop-cafe-pastries-waffles-cooking-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cake-shop-cafe-pastries-waffles-cooking-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cake-shop-cafe-pastries-waffles-cooking-game\index.html  →  stray IDs replaced
+  ⏭️   calming-lia\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   calming-lia\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  calming-lia\index.html  →  stray IDs replaced
+  ⏭️   candy-blast-candy-bomb-puzzle-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   candy-blast-candy-bomb-puzzle-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  candy-blast-candy-bomb-puzzle-game\index.html  →  stray IDs replaced
+  ⏭️   candy-egg-blast\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   candy-egg-blast\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  candy-egg-blast\index.html  →  stray IDs replaced
+  ⏭️   candy-maker-dessert-games\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   candy-maker-dessert-games\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  candy-maker-dessert-games\index.html  →  stray IDs replaced
+  ⏭️   candy-strike\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   candy-strike\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  candy-strike\index.html  →  stray IDs replaced
+  ⏭️   cannon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cannon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cannon\index.html  →  stray IDs replaced
+  ⏭️   cannon-balls-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cannon-balls-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cannon-balls-3d\index.html  →  stray IDs replaced
+  ⏭️   car-highway-racing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   car-highway-racing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  car-highway-racing\index.html  →  stray IDs replaced
+  ⏭️   car-nabbing-race-the-police-car-chase\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   car-nabbing-race-the-police-car-chase\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  car-nabbing-race-the-police-car-chase\index.html  →  stray IDs replaced
+  ⏭️   car-transform-mania-merger-tycoon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   car-transform-mania-merger-tycoon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  car-transform-mania-merger-tycoon\index.html  →  stray IDs replaced
+  ⏭️   carjack-racing-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   carjack-racing-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  carjack-racing-master\index.html  →  stray IDs replaced
+  ⏭️   carrot-man-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   carrot-man-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  carrot-man-2\index.html  →  stray IDs replaced
+  ⏭️   casual-pinball-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   casual-pinball-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  casual-pinball-game\index.html  →  stray IDs replaced
+  ⏭️   cat-clicker\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cat-clicker\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cat-clicker\index.html  →  stray IDs replaced
+  ⏭️   cat-evolution\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cat-evolution\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cat-evolution\index.html  →  stray IDs replaced
+  ⏭️   cat-lovescapes\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cat-lovescapes\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cat-lovescapes\index.html  →  stray IDs replaced
+  ⏭️   catball\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   catball\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  catball\index.html  →  stray IDs replaced
+  ⏭️   catch-an-ant\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   catch-an-ant\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  catch-an-ant\index.html  →  stray IDs replaced
+  ⏭️   catch-bombs\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   catch-bombs\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  catch-bombs\index.html  →  stray IDs replaced
+  ⏭️   catch-huggy-wuggy\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   catch-huggy-wuggy\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  catch-huggy-wuggy\index.html  →  stray IDs replaced
+  ⏭️   category\action\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\action\index.html  →  stray IDs replaced
+  ⏭️   category\adventure\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\adventure\index.html  →  stray IDs replaced
+  ⏭️   category\arcade\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\arcade\index.html  →  stray IDs replaced
+  ⏭️   category\board-game\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\board-game\index.html  →  stray IDs replaced
+  ⏭️   category\dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\dress-up\index.html  →  stray IDs replaced
+  ⏭️   category\driving\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\driving\index.html  →  stray IDs replaced
+  ⏭️   category\jigsaw\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\jigsaw\index.html  →  stray IDs replaced
+  ⏭️   category\multiplayer\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\multiplayer\index.html  →  stray IDs replaced
+  ⏭️   category\other\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\other\index.html  →  stray IDs replaced
+  ⏭️   category\puzzles\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\puzzles\index.html  →  stray IDs replaced
+  ⏭️   category\shooting\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\shooting\index.html  →  stray IDs replaced
+  ⏭️   category\sports\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\sports\index.html  →  stray IDs replaced
+  ⏭️   category\strategy\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  category\strategy\index.html  →  stray IDs replaced
+  ⏭️   chain-cube-2048-3d-merge-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   chain-cube-2048-3d-merge-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  chain-cube-2048-3d-merge-game\index.html  →  stray IDs replaced
+  ⏭️   chibi-doll-dress-up-diy\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   chibi-doll-dress-up-diy\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  chibi-doll-dress-up-diy\index.html  →  stray IDs replaced
+  ⏭️   christmas-fishing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   christmas-fishing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  christmas-fishing\index.html  →  stray IDs replaced
+  ⏭️   city-car-driving\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   city-car-driving\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  city-car-driving\index.html  →  stray IDs replaced
+  ⏭️   classic-golden-fishing-arcade-online\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   classic-golden-fishing-arcade-online\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  classic-golden-fishing-arcade-online\index.html  →  stray IDs replaced
+  ⏭️   classic-labyrinth-3d-maze\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   classic-labyrinth-3d-maze\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  classic-labyrinth-3d-maze\index.html  →  stray IDs replaced
+  ⏭️   classic-sudoku-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   classic-sudoku-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  classic-sudoku-puzzle\index.html  →  stray IDs replaced
+  ⏭️   clownfish-pin-out\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   clownfish-pin-out\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  clownfish-pin-out\index.html  →  stray IDs replaced
+  ⏭️   coin-collector-merge-to-10\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   coin-collector-merge-to-10\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  coin-collector-merge-to-10\index.html  →  stray IDs replaced
+  ⏭️   color-tunnel\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   color-tunnel\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  color-tunnel\index.html  →  stray IDs replaced
+  ⏭️   coloring-book-elmo-new-friend\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   coloring-book-elmo-new-friend\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  coloring-book-elmo-new-friend\index.html  →  stray IDs replaced
+  ⏭️   coloring-book-polar-bear\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   coloring-book-polar-bear\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  coloring-book-polar-bear\index.html  →  stray IDs replaced
+  ⏭️   coloring-book-princess-jasmine\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   coloring-book-princess-jasmine\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  coloring-book-princess-jasmine\index.html  →  stray IDs replaced
+  ⏭️   comments\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   construction-set-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   construction-set-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  construction-set-3d\index.html  →  stray IDs replaced
+  ✅  contact\index.html  →  stray IDs replaced
+  ✅  cookies-policy\index.html  →  stray IDs replaced
+  ⏭️   cotton-candy-roll-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cotton-candy-roll-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cotton-candy-roll-3d\index.html  →  stray IDs replaced
+  ⏭️   cowboy-swing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cowboy-swing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cowboy-swing\index.html  →  stray IDs replaced
+  ⏭️   crazy-baskets\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crazy-baskets\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crazy-baskets\index.html  →  stray IDs replaced
+  ⏭️   crazy-caves\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crazy-caves\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crazy-caves\index.html  →  stray IDs replaced
+  ⏭️   crazy-caves-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crazy-caves-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crazy-caves-2\index.html  →  stray IDs replaced
+  ⏭️   crazy-hen-level\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crazy-hen-level\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crazy-hen-level\index.html  →  stray IDs replaced
+  ⏭️   crossover-21\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crossover-21\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crossover-21\index.html  →  stray IDs replaced
+  ⏭️   crowd-defense\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crowd-defense\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crowd-defense\index.html  →  stray IDs replaced
+  ⏭️   crowd-run-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   crowd-run-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  crowd-run-3d\index.html  →  stray IDs replaced
+  ⏭️   cube-animal-drift-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cube-animal-drift-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cube-animal-drift-3d\index.html  →  stray IDs replaced
+  ⏭️   cubito\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cubito\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cubito\index.html  →  stray IDs replaced
+  ⏭️   curve-ball-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   curve-ball-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  curve-ball-3d\index.html  →  stray IDs replaced
+  ⏭️   cut-the-rope\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cut-the-rope\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cut-the-rope\index.html  →  stray IDs replaced
+  ⏭️   cute-princess-dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   cute-princess-dress-up\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  cute-princess-dress-up\index.html  →  stray IDs replaced
+  ⏭️   dance-battle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   dance-battle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  dance-battle\index.html  →  stray IDs replaced
+  ⏭️   demon-killer\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   demon-killer\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  demon-killer\index.html  →  stray IDs replaced
+  ⏭️   desert-riders-car-battle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   desert-riders-car-battle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  desert-riders-car-battle\index.html  →  stray IDs replaced
+  ⏭️   destination-brain-test\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   destination-brain-test\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  destination-brain-test\index.html  →  stray IDs replaced
+  ⏭️   detective-room-escape\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   detective-room-escape\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  detective-room-escape\index.html  →  stray IDs replaced
+  ⏭️   devil-level\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   devil-level\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  devil-level\index.html  →  stray IDs replaced
+  ⏭️   diamond-rush-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   diamond-rush-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  diamond-rush-2\index.html  →  stray IDs replaced
+  ⏭️   dices-2048-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   dices-2048-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  dices-2048-3d\index.html  →  stray IDs replaced
+  ⏭️   diy-anime-doll-dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   diy-anime-doll-dress-up\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  diy-anime-doll-dress-up\index.html  →  stray IDs replaced
+  ✅  dmca\index.html  →  stray IDs replaced
+  ⏭️   domino-frenzy\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   domino-frenzy\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  domino-frenzy\index.html  →  stray IDs replaced
+  ⏭️   dot-by-dot\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   dot-by-dot\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  dot-by-dot\index.html  →  stray IDs replaced
+  ⏭️   dreamy-jewel\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   dreamy-jewel\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  dreamy-jewel\index.html  →  stray IDs replaced
+  ⏭️   dress-up-princess-creator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   dress-up-princess-creator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  dress-up-princess-creator\index.html  →  stray IDs replaced
+  ⏭️   drift-dudes\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   drift-dudes\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  drift-dudes\index.html  →  stray IDs replaced
+  ⏭️   e-scooter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   e-scooter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  e-scooter\index.html  →  stray IDs replaced
+  ⏭️   egg-collector\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   egg-collector\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  egg-collector\index.html  →  stray IDs replaced
+  ⏭️   element-balls\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   element-balls\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  element-balls\index.html  →  stray IDs replaced
+  ⏭️   element-blocks\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   element-blocks\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  element-blocks\index.html  →  stray IDs replaced
+  ⏭️   emergency-surgery\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   emergency-surgery\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  emergency-surgery\index.html  →  stray IDs replaced
+  ⏭️   emoji-flow\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   emoji-flow\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  emoji-flow\index.html  →  stray IDs replaced
+  ⏭️   emoji-fun\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   emoji-fun\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  emoji-fun\index.html  →  stray IDs replaced
+  ⏭️   emoji-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   emoji-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  emoji-game\index.html  →  stray IDs replaced
+  ⏭️   emoji-match\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   emoji-match\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  emoji-match\index.html  →  stray IDs replaced
+  ⏭️   euro-penalty-cup-2021\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   euro-penalty-cup-2021\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  euro-penalty-cup-2021\index.html  →  stray IDs replaced
+  ⏭️   euro-penalty-cup-2021-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   euro-penalty-cup-2021-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  euro-penalty-cup-2021-2\index.html  →  stray IDs replaced
+  ⏭️   extreme-road-trip\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   extreme-road-trip\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  extreme-road-trip\index.html  →  stray IDs replaced
+  ⏭️   eye-art-beauty-makeup-artist\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   eye-art-beauty-makeup-artist\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  eye-art-beauty-makeup-artist\index.html  →  stray IDs replaced
+  ⏭️   eye-art-perfect-makeup-artist\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   eye-art-perfect-makeup-artist\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  eye-art-perfect-makeup-artist\index.html  →  stray IDs replaced
+  ⏭️   factory-builder\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   factory-builder\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  factory-builder\index.html  →  stray IDs replaced
+  ⏭️   family-tree-emoji\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   family-tree-emoji\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  family-tree-emoji\index.html  →  stray IDs replaced
+  ⏭️   feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   find-it-out-bluey\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   find-it-out-bluey\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  find-it-out-bluey\index.html  →  stray IDs replaced
+  ⏭️   find-the-missing-part\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   find-the-missing-part\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  find-the-missing-part\index.html  →  stray IDs replaced
+  ⏭️   fish-jam\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   fish-jam\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  fish-jam\index.html  →  stray IDs replaced
+  ⏭️   fishing-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   fishing-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  fishing-master\index.html  →  stray IDs replaced
+  ⏭️   flying-bill\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   flying-bill\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  flying-bill\index.html  →  stray IDs replaced
+  ⏭️   food-card-sort\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   food-card-sort\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  food-card-sort\index.html  →  stray IDs replaced
+  ⏭️   food-rush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   food-rush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  food-rush\index.html  →  stray IDs replaced
+  ⏭️   food-rush-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   food-rush-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  food-rush-2\index.html  →  stray IDs replaced
+  ⏭️   forest-tiles\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   forest-tiles\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  forest-tiles\index.html  →  stray IDs replaced
+  ⏭️   frankenstein-go\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   frankenstein-go\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  frankenstein-go\index.html  →  stray IDs replaced
+  ⏭️   full-cup\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   full-cup\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  full-cup\index.html  →  stray IDs replaced
+  ⏭️   funny-daycare\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   funny-daycare\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  funny-daycare\index.html  →  stray IDs replaced
+  ⏭️   funny-food-duel\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   funny-food-duel\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  funny-food-duel\index.html  →  stray IDs replaced
+  ⏭️   funny-fred\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   funny-fred\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  funny-fred\index.html  →  stray IDs replaced
+  ⏭️   funny-fred-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   funny-fred-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  funny-fred-2\index.html  →  stray IDs replaced
+  ⏭️   fury-road-zombie-crash\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   fury-road-zombie-crash\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  fury-road-zombie-crash\index.html  →  stray IDs replaced
+  ⏭️   fuzzies\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   fuzzies\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  fuzzies\index.html  →  stray IDs replaced
+  ⏭️   fuzzies-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   fuzzies-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  fuzzies-2\index.html  →  stray IDs replaced
+  ⏭️   garden-bloom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   garden-bloom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  garden-bloom\index.html  →  stray IDs replaced
+  ⏭️   garden-bloom-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   garden-bloom-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  garden-bloom-2\index.html  →  stray IDs replaced
+  ⏭️   garden-match-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   garden-match-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  garden-match-3d\index.html  →  stray IDs replaced
+  ⏭️   garden-match-3d-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   garden-match-3d-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  garden-match-3d-2\index.html  →  stray IDs replaced
+  ⏭️   gas-station-inc\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   gas-station-inc\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  gas-station-inc\index.html  →  stray IDs replaced
+  ⏭️   giant-2048\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   giant-2048\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  giant-2048\index.html  →  stray IDs replaced
+  ⏭️   giant-2048-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   giant-2048-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  giant-2048-2\index.html  →  stray IDs replaced
+  ⏭️   giant-attack\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   giant-attack\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  giant-attack\index.html  →  stray IDs replaced
+  ⏭️   giant-attack-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   giant-attack-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  giant-attack-2\index.html  →  stray IDs replaced
+  ⏭️   girl-secret-princess-makeover\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   girl-secret-princess-makeover\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  girl-secret-princess-makeover\index.html  →  stray IDs replaced
+  ⏭️   go-around\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   go-around\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  go-around\index.html  →  stray IDs replaced
+  ⏭️   good-shelves\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   good-shelves\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  good-shelves\index.html  →  stray IDs replaced
+  ⏭️   good-shelves-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   good-shelves-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  good-shelves-2\index.html  →  stray IDs replaced
+  ⏭️   granny-horror-escape\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   granny-horror-escape\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  granny-horror-escape\index.html  →  stray IDs replaced
+  ⏭️   green-ball\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   green-ball\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  green-ball\index.html  →  stray IDs replaced
+  ⏭️   guess-flag-game\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   guess-flag-game\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  guess-flag-game\index.html  →  stray IDs replaced
+  ⏭️   gun-evolution\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   gun-evolution\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  gun-evolution\index.html  →  stray IDs replaced
+  ⏭️   gun-spin\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   gun-spin\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  gun-spin\index.html  →  stray IDs replaced
+  ⏭️   gun-spin-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   gun-spin-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  gun-spin-2\index.html  →  stray IDs replaced
+  ⏭️   halloween-bubble-shooter\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   halloween-bubble-shooter\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  halloween-bubble-shooter\index.html  →  stray IDs replaced
+  ⏭️   hexa-blast-game-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hexa-blast-game-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hexa-blast-game-puzzle\index.html  →  stray IDs replaced
+  ⏭️   hexa-sort-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hexa-sort-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hexa-sort-3d\index.html  →  stray IDs replaced
+  ⏭️   hippo-pizza-chef\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hippo-pizza-chef\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hippo-pizza-chef\index.html  →  stray IDs replaced
+  ⏭️   home-design-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   home-design-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  home-design-3d\index.html  →  stray IDs replaced
+  ⏭️   honor-of-kings-online\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   honor-of-kings-online\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  honor-of-kings-online\index.html  →  stray IDs replaced
+  ⏭️   hook\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hook\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hook\index.html  →  stray IDs replaced
+  ⏭️   hoop-royale\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hoop-royale\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hoop-royale\index.html  →  stray IDs replaced
+  ⏭️   hoop-royale-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hoop-royale-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hoop-royale-2\index.html  →  stray IDs replaced
+  ⏭️   hospital-escaper\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   hospital-escaper\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  hospital-escaper\index.html  →  stray IDs replaced
+  ✅  index.html  →  meta tag (1x), script tag (1x)
+  ⏭️   index0143.html  →  already up-to-date / no AdSense found
+  ⏭️   index01b9.html  →  already up-to-date / no AdSense found
+  ⏭️   index01d1.html  →  already up-to-date / no AdSense found
+  ⏭️   index0228.html  →  already up-to-date / no AdSense found
+  ⏭️   index039f.html  →  already up-to-date / no AdSense found
+  ⏭️   index043d.html  →  already up-to-date / no AdSense found
+  ⏭️   index0566.html  →  already up-to-date / no AdSense found
+  ⏭️   index05c7.html  →  already up-to-date / no AdSense found
+  ⏭️   index071e.html  →  already up-to-date / no AdSense found
+  ⏭️   index07a6.html  →  already up-to-date / no AdSense found
+  ⏭️   index0849.html  →  already up-to-date / no AdSense found
+  ⏭️   index084d.html  →  already up-to-date / no AdSense found
+  ⏭️   index0865.html  →  already up-to-date / no AdSense found
+  ⏭️   index08e2.html  →  already up-to-date / no AdSense found
+  ⏭️   index0984.html  →  already up-to-date / no AdSense found
+  ⏭️   index0a58.html  →  already up-to-date / no AdSense found
+  ⏭️   index0a82.html  →  already up-to-date / no AdSense found
+  ⏭️   index0b41.html  →  already up-to-date / no AdSense found
+  ⏭️   index0b5c.html  →  already up-to-date / no AdSense found
+  ⏭️   index0ba7.html  →  already up-to-date / no AdSense found
+  ⏭️   index0bc9.html  →  already up-to-date / no AdSense found
+  ⏭️   index0d0a.html  →  already up-to-date / no AdSense found
+  ⏭️   index0d4d.html  →  already up-to-date / no AdSense found
+  ⏭️   index0d89.html  →  already up-to-date / no AdSense found
+  ⏭️   index0e6c.html  →  already up-to-date / no AdSense found
+  ⏭️   index0f55.html  →  already up-to-date / no AdSense found
+  ⏭️   index0f90.html  →  already up-to-date / no AdSense found
+  ⏭️   index1025.html  →  already up-to-date / no AdSense found
+  ⏭️   index11bd.html  →  already up-to-date / no AdSense found
+  ⏭️   index12a6.html  →  already up-to-date / no AdSense found
+  ⏭️   index13b6.html  →  already up-to-date / no AdSense found
+  ⏭️   index141e.html  →  already up-to-date / no AdSense found
+  ⏭️   index1469.html  →  already up-to-date / no AdSense found
+  ⏭️   index150c.html  →  already up-to-date / no AdSense found
+  ⏭️   index157d.html  →  already up-to-date / no AdSense found
+  ⏭️   index1596.html  →  already up-to-date / no AdSense found
+  ⏭️   index164e.html  →  already up-to-date / no AdSense found
+  ⏭️   index1723.html  →  already up-to-date / no AdSense found
+  ⏭️   index174b.html  →  already up-to-date / no AdSense found
+  ⏭️   index1762.html  →  already up-to-date / no AdSense found
+  ⏭️   index176d.html  →  already up-to-date / no AdSense found
+  ⏭️   index17f1.html  →  already up-to-date / no AdSense found
+  ⏭️   index1834.html  →  already up-to-date / no AdSense found
+  ⏭️   index1865.html  →  already up-to-date / no AdSense found
+  ⏭️   index18c0.html  →  already up-to-date / no AdSense found
+  ⏭️   index1913.html  →  already up-to-date / no AdSense found
+  ⏭️   index1a78.html  →  already up-to-date / no AdSense found
+  ⏭️   index1a9a.html  →  already up-to-date / no AdSense found
+  ⏭️   index1aa7.html  →  already up-to-date / no AdSense found
+  ⏭️   index1b15.html  →  already up-to-date / no AdSense found
+  ⏭️   index1dd2.html  →  already up-to-date / no AdSense found
+  ⏭️   index1de6.html  →  already up-to-date / no AdSense found
+  ⏭️   index1df0.html  →  already up-to-date / no AdSense found
+  ⏭️   index1e14.html  →  already up-to-date / no AdSense found
+  ⏭️   index1e59.html  →  already up-to-date / no AdSense found
+  ⏭️   index1f00.html  →  already up-to-date / no AdSense found
+  ⏭️   index1f46.html  →  already up-to-date / no AdSense found
+  ⏭️   index1fd7.html  →  already up-to-date / no AdSense found
+  ⏭️   index203c.html  →  already up-to-date / no AdSense found
+  ⏭️   index208d.html  →  already up-to-date / no AdSense found
+  ⏭️   index209a.html  →  already up-to-date / no AdSense found
+  ⏭️   index2132.html  →  already up-to-date / no AdSense found
+  ⏭️   index2136.html  →  already up-to-date / no AdSense found
+  ⏭️   index214b.html  →  already up-to-date / no AdSense found
+  ⏭️   index2193.html  →  already up-to-date / no AdSense found
+  ⏭️   index2569.html  →  already up-to-date / no AdSense found
+  ⏭️   index2582.html  →  already up-to-date / no AdSense found
+  ⏭️   index26d0.html  →  already up-to-date / no AdSense found
+  ⏭️   index2a95.html  →  already up-to-date / no AdSense found
+  ⏭️   index2b15.html  →  already up-to-date / no AdSense found
+  ⏭️   index2b52.html  →  already up-to-date / no AdSense found
+  ⏭️   index2b62.html  →  already up-to-date / no AdSense found
+  ⏭️   index2b78.html  →  already up-to-date / no AdSense found
+  ⏭️   index2b79.html  →  already up-to-date / no AdSense found
+  ⏭️   index2bd5.html  →  already up-to-date / no AdSense found
+  ⏭️   index2bf9.html  →  already up-to-date / no AdSense found
+  ⏭️   index2cbe.html  →  already up-to-date / no AdSense found
+  ⏭️   index2d4b.html  →  already up-to-date / no AdSense found
+  ⏭️   index2dee.html  →  already up-to-date / no AdSense found
+  ⏭️   index2e27.html  →  already up-to-date / no AdSense found
+  ⏭️   index2f19.html  →  already up-to-date / no AdSense found
+  ⏭️   index2f99.html  →  already up-to-date / no AdSense found
+  ⏭️   index3177.html  →  already up-to-date / no AdSense found
+  ⏭️   index325c.html  →  already up-to-date / no AdSense found
+  ⏭️   index327d.html  →  already up-to-date / no AdSense found
+  ⏭️   index33ac.html  →  already up-to-date / no AdSense found
+  ⏭️   index3661.html  →  already up-to-date / no AdSense found
+  ⏭️   index3674.html  →  already up-to-date / no AdSense found
+  ⏭️   index3861.html  →  already up-to-date / no AdSense found
+  ⏭️   index3898.html  →  already up-to-date / no AdSense found
+  ⏭️   index389b.html  →  already up-to-date / no AdSense found
+  ⏭️   index39a7.html  →  already up-to-date / no AdSense found
+  ⏭️   index3ac4.html  →  already up-to-date / no AdSense found
+  ⏭️   index3b28.html  →  already up-to-date / no AdSense found
+  ⏭️   index3b75.html  →  already up-to-date / no AdSense found
+  ⏭️   index3c2a.html  →  already up-to-date / no AdSense found
+  ⏭️   index3c3e.html  →  already up-to-date / no AdSense found
+  ⏭️   index3d80.html  →  already up-to-date / no AdSense found
+  ⏭️   index3e59.html  →  already up-to-date / no AdSense found
+  ⏭️   index3e5f.html  →  already up-to-date / no AdSense found
+  ⏭️   index3e90.html  →  already up-to-date / no AdSense found
+  ⏭️   index3eeb.html  →  already up-to-date / no AdSense found
+  ⏭️   index3f68.html  →  already up-to-date / no AdSense found
+  ⏭️   index3f75.html  →  already up-to-date / no AdSense found
+  ⏭️   index3f7a.html  →  already up-to-date / no AdSense found
+  ⏭️   index3fa3.html  →  already up-to-date / no AdSense found
+  ⏭️   index3fd6.html  →  already up-to-date / no AdSense found
+  ⏭️   index411c.html  →  already up-to-date / no AdSense found
+  ⏭️   index4178.html  →  already up-to-date / no AdSense found
+  ⏭️   index4192.html  →  already up-to-date / no AdSense found
+  ⏭️   index41d8.html  →  already up-to-date / no AdSense found
+  ⏭️   index4293.html  →  already up-to-date / no AdSense found
+  ⏭️   index4297.html  →  already up-to-date / no AdSense found
+  ⏭️   index42a6.html  →  already up-to-date / no AdSense found
+  ⏭️   index42c4.html  →  already up-to-date / no AdSense found
+  ⏭️   index42fb.html  →  already up-to-date / no AdSense found
+  ⏭️   index4407.html  →  already up-to-date / no AdSense found
+  ⏭️   index4511.html  →  already up-to-date / no AdSense found
+  ⏭️   index456c.html  →  already up-to-date / no AdSense found
+  ⏭️   index461a.html  →  already up-to-date / no AdSense found
+  ⏭️   index470a.html  →  already up-to-date / no AdSense found
+  ⏭️   index4817.html  →  already up-to-date / no AdSense found
+  ⏭️   index48a5.html  →  already up-to-date / no AdSense found
+  ⏭️   index48d3.html  →  already up-to-date / no AdSense found
+  ⏭️   index4ac2.html  →  already up-to-date / no AdSense found
+  ⏭️   index4b26.html  →  already up-to-date / no AdSense found
+  ⏭️   index4b2e.html  →  already up-to-date / no AdSense found
+  ⏭️   index4c3a.html  →  already up-to-date / no AdSense found
+  ⏭️   index4c94.html  →  already up-to-date / no AdSense found
+  ⏭️   index4d02.html  →  already up-to-date / no AdSense found
+  ⏭️   index4dbd.html  →  already up-to-date / no AdSense found
+  ⏭️   index4e41.html  →  already up-to-date / no AdSense found
+  ⏭️   index4e45.html  →  already up-to-date / no AdSense found
+  ⏭️   index4f68.html  →  already up-to-date / no AdSense found
+  ⏭️   index5002.html  →  already up-to-date / no AdSense found
+  ⏭️   index504e.html  →  already up-to-date / no AdSense found
+  ⏭️   index50b4.html  →  already up-to-date / no AdSense found
+  ⏭️   index52a0.html  →  already up-to-date / no AdSense found
+  ⏭️   index553d.html  →  already up-to-date / no AdSense found
+  ⏭️   index5579.html  →  already up-to-date / no AdSense found
+  ⏭️   index559c.html  →  already up-to-date / no AdSense found
+  ⏭️   index55d9.html  →  already up-to-date / no AdSense found
+  ⏭️   index5628.html  →  already up-to-date / no AdSense found
+  ⏭️   index576e.html  →  already up-to-date / no AdSense found
+  ⏭️   index57d5.html  →  already up-to-date / no AdSense found
+  ⏭️   index57e1.html  →  already up-to-date / no AdSense found
+  ⏭️   index5874.html  →  already up-to-date / no AdSense found
+  ⏭️   index5880.html  →  already up-to-date / no AdSense found
+  ⏭️   index5907.html  →  already up-to-date / no AdSense found
+  ⏭️   index5998.html  →  already up-to-date / no AdSense found
+  ⏭️   index59b0.html  →  already up-to-date / no AdSense found
+  ⏭️   index59cd.html  →  already up-to-date / no AdSense found
+  ⏭️   index59f6.html  →  already up-to-date / no AdSense found
+  ⏭️   index5bce.html  →  already up-to-date / no AdSense found
+  ⏭️   index5c81.html  →  already up-to-date / no AdSense found
+  ⏭️   index5c93.html  →  already up-to-date / no AdSense found
+  ⏭️   index5cb1.html  →  already up-to-date / no AdSense found
+  ⏭️   index5ce3.html  →  already up-to-date / no AdSense found
+  ⏭️   index5d2a.html  →  already up-to-date / no AdSense found
+  ⏭️   index5d84.html  →  already up-to-date / no AdSense found
+  ⏭️   index5dd3.html  →  already up-to-date / no AdSense found
+  ⏭️   index5df1.html  →  already up-to-date / no AdSense found
+  ⏭️   index5f81.html  →  already up-to-date / no AdSense found
+  ⏭️   index5f98.html  →  already up-to-date / no AdSense found
+  ⏭️   index6100.html  →  already up-to-date / no AdSense found
+  ⏭️   index6144.html  →  already up-to-date / no AdSense found
+  ⏭️   index6239.html  →  already up-to-date / no AdSense found
+  ⏭️   index630b.html  →  already up-to-date / no AdSense found
+  ⏭️   index652d.html  →  already up-to-date / no AdSense found
+  ⏭️   index652f.html  →  already up-to-date / no AdSense found
+  ⏭️   index6635.html  →  already up-to-date / no AdSense found
+  ⏭️   index6713.html  →  already up-to-date / no AdSense found
+  ⏭️   index6836.html  →  already up-to-date / no AdSense found
+  ⏭️   index69b9.html  →  already up-to-date / no AdSense found
+  ⏭️   index69dc.html  →  already up-to-date / no AdSense found
+  ⏭️   index6b6b.html  →  already up-to-date / no AdSense found
+  ⏭️   index6b6d.html  →  already up-to-date / no AdSense found
+  ⏭️   index6b98.html  →  already up-to-date / no AdSense found
+  ⏭️   index6bb7.html  →  already up-to-date / no AdSense found
+  ⏭️   index6c69.html  →  already up-to-date / no AdSense found
+  ⏭️   index6ca6.html  →  already up-to-date / no AdSense found
+  ⏭️   index6ccc.html  →  already up-to-date / no AdSense found
+  ⏭️   index6cd8.html  →  already up-to-date / no AdSense found
+  ⏭️   index6cf4.html  →  already up-to-date / no AdSense found
+  ⏭️   index6d24.html  →  already up-to-date / no AdSense found
+  ⏭️   index6d2f.html  →  already up-to-date / no AdSense found
+  ⏭️   index6dbe.html  →  already up-to-date / no AdSense found
+  ⏭️   index6dc7.html  →  already up-to-date / no AdSense found
+  ⏭️   index6f0d.html  →  already up-to-date / no AdSense found
+  ⏭️   index6f3b.html  →  already up-to-date / no AdSense found
+  ⏭️   index6fdb.html  →  already up-to-date / no AdSense found
+  ⏭️   index71f3.html  →  already up-to-date / no AdSense found
+  ⏭️   index721c.html  →  already up-to-date / no AdSense found
+  ⏭️   index7221.html  →  already up-to-date / no AdSense found
+  ⏭️   index724e.html  →  already up-to-date / no AdSense found
+  ⏭️   index7329.html  →  already up-to-date / no AdSense found
+  ⏭️   index736e.html  →  already up-to-date / no AdSense found
+  ⏭️   index73f1.html  →  already up-to-date / no AdSense found
+  ⏭️   index74a1.html  →  already up-to-date / no AdSense found
+  ⏭️   index74e6.html  →  already up-to-date / no AdSense found
+  ⏭️   index763e.html  →  already up-to-date / no AdSense found
+  ⏭️   index7681.html  →  already up-to-date / no AdSense found
+  ⏭️   index76da.html  →  already up-to-date / no AdSense found
+  ⏭️   index784f.html  →  already up-to-date / no AdSense found
+  ⏭️   index7886.html  →  already up-to-date / no AdSense found
+  ⏭️   index78a2.html  →  already up-to-date / no AdSense found
+  ⏭️   index78e6.html  →  already up-to-date / no AdSense found
+  ⏭️   index7914.html  →  already up-to-date / no AdSense found
+  ⏭️   index7a2c.html  →  already up-to-date / no AdSense found
+  ⏭️   index7a78.html  →  already up-to-date / no AdSense found
+  ⏭️   index7b62.html  →  already up-to-date / no AdSense found
+  ⏭️   index7bb4.html  →  already up-to-date / no AdSense found
+  ⏭️   index7d98.html  →  already up-to-date / no AdSense found
+  ⏭️   index7e0e.html  →  already up-to-date / no AdSense found
+  ⏭️   index7fbc.html  →  already up-to-date / no AdSense found
+  ⏭️   index7ffe.html  →  already up-to-date / no AdSense found
+  ⏭️   index8042.html  →  already up-to-date / no AdSense found
+  ⏭️   index808c.html  →  already up-to-date / no AdSense found
+  ⏭️   index80a9.html  →  already up-to-date / no AdSense found
+  ⏭️   index80ad.html  →  already up-to-date / no AdSense found
+  ⏭️   index80fa.html  →  already up-to-date / no AdSense found
+  ⏭️   index8152.html  →  already up-to-date / no AdSense found
+  ⏭️   index817f.html  →  already up-to-date / no AdSense found
+  ⏭️   index820a.html  →  already up-to-date / no AdSense found
+  ⏭️   index8285.html  →  already up-to-date / no AdSense found
+  ⏭️   index8303.html  →  already up-to-date / no AdSense found
+  ⏭️   index8381.html  →  already up-to-date / no AdSense found
+  ⏭️   index846b.html  →  already up-to-date / no AdSense found
+  ⏭️   index8600.html  →  already up-to-date / no AdSense found
+  ⏭️   index86f6.html  →  already up-to-date / no AdSense found
+  ⏭️   index876b.html  →  already up-to-date / no AdSense found
+  ⏭️   index87d0.html  →  already up-to-date / no AdSense found
+  ⏭️   index89f6.html  →  already up-to-date / no AdSense found
+  ⏭️   index8a2d.html  →  already up-to-date / no AdSense found
+  ⏭️   index8b39.html  →  already up-to-date / no AdSense found
+  ⏭️   index8b53.html  →  already up-to-date / no AdSense found
+  ⏭️   index8bab.html  →  already up-to-date / no AdSense found
+  ⏭️   index8cc3.html  →  already up-to-date / no AdSense found
+  ⏭️   index8d1b.html  →  already up-to-date / no AdSense found
+  ⏭️   index8e49.html  →  already up-to-date / no AdSense found
+  ⏭️   index8e8b.html  →  already up-to-date / no AdSense found
+  ⏭️   index8ef5.html  →  already up-to-date / no AdSense found
+  ⏭️   index8f57.html  →  already up-to-date / no AdSense found
+  ⏭️   index8f9f.html  →  already up-to-date / no AdSense found
+  ⏭️   index8fe5.html  →  already up-to-date / no AdSense found
+  ⏭️   index9011.html  →  already up-to-date / no AdSense found
+  ⏭️   index904c.html  →  already up-to-date / no AdSense found
+  ⏭️   index90ee.html  →  already up-to-date / no AdSense found
+  ⏭️   index9117.html  →  already up-to-date / no AdSense found
+  ⏭️   index914d.html  →  already up-to-date / no AdSense found
+  ⏭️   index919b.html  →  already up-to-date / no AdSense found
+  ⏭️   index91ff.html  →  already up-to-date / no AdSense found
+  ⏭️   index92c3.html  →  already up-to-date / no AdSense found
+  ⏭️   index9383.html  →  already up-to-date / no AdSense found
+  ⏭️   index93a0.html  →  already up-to-date / no AdSense found
+  ⏭️   index93ac.html  →  already up-to-date / no AdSense found
+  ⏭️   index942e.html  →  already up-to-date / no AdSense found
+  ⏭️   index94f9.html  →  already up-to-date / no AdSense found
+  ⏭️   index95ac.html  →  already up-to-date / no AdSense found
+  ⏭️   index95d2.html  →  already up-to-date / no AdSense found
+  ⏭️   index974f.html  →  already up-to-date / no AdSense found
+  ⏭️   index975e.html  →  already up-to-date / no AdSense found
+  ⏭️   index98bd.html  →  already up-to-date / no AdSense found
+  ⏭️   index9910.html  →  already up-to-date / no AdSense found
+  ⏭️   index994c.html  →  already up-to-date / no AdSense found
+  ⏭️   index99a6.html  →  already up-to-date / no AdSense found
+  ⏭️   index99ea.html  →  already up-to-date / no AdSense found
+  ⏭️   index9a03.html  →  already up-to-date / no AdSense found
+  ⏭️   index9a20.html  →  already up-to-date / no AdSense found
+  ⏭️   index9a45.html  →  already up-to-date / no AdSense found
+  ⏭️   index9aa6.html  →  already up-to-date / no AdSense found
+  ⏭️   index9af7.html  →  already up-to-date / no AdSense found
+  ⏭️   index9b2c.html  →  already up-to-date / no AdSense found
+  ⏭️   index9be9.html  →  already up-to-date / no AdSense found
+  ⏭️   index9cab.html  →  already up-to-date / no AdSense found
+  ⏭️   index9e5e.html  →  already up-to-date / no AdSense found
+  ⏭️   index9e60.html  →  already up-to-date / no AdSense found
+  ⏭️   index9eff.html  →  already up-to-date / no AdSense found
+  ⏭️   index9f44.html  →  already up-to-date / no AdSense found
+  ⏭️   index9fb6.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa290.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa317.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa414.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa448.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa4b1.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa542.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa563.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa60b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa63d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa69b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa7f7.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa83f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa90d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexa94b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaa07.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaae7.html  →  already up-to-date / no AdSense found
+  ⏭️   indexac17.html  →  already up-to-date / no AdSense found
+  ⏭️   indexac80.html  →  already up-to-date / no AdSense found
+  ⏭️   indexad4d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexad79.html  →  already up-to-date / no AdSense found
+  ⏭️   indexade3.html  →  already up-to-date / no AdSense found
+  ⏭️   indexae65.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaf12.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaf1d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaf21.html  →  already up-to-date / no AdSense found
+  ⏭️   indexaffb.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb13f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb140.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb213.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb253.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb357.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb367.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb39e.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb4d9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb648.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb703.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb74b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb781.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb823.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb82b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb849.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb86d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb88e.html  →  already up-to-date / no AdSense found
+  ⏭️   indexb95d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbb0e.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbb3a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbb97.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbd0a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbd60.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbd7b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbdb3.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbe7c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexbfcf.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc052.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc0cd.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc141.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc17f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc190.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc3b2.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc3cc.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc504.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc5b3.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc61d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc7a9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc7c9-2.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc7c9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc8d7.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc8dc.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc8e5.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc90a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc921.html  →  already up-to-date / no AdSense found
+  ⏭️   indexc9bc.html  →  already up-to-date / no AdSense found
+  ⏭️   indexca7c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexca89.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcc0b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcc63.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcd03.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcd66.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcd8b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcd93.html  →  already up-to-date / no AdSense found
+  ⏭️   indexce40.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcef9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcf56.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcf6d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexcfab.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd010.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd030.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd072.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd0f6.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd15f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd201.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd233.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd246.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd255.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd34f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd350.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd399.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd53a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd58a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd59f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd5ec.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd699.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd7e6.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd81c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd832.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd848.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd8a3.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd900.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd909.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd944.html  →  already up-to-date / no AdSense found
+  ⏭️   indexd9dd.html  →  already up-to-date / no AdSense found
+  ⏭️   indexda0c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexda0f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdb34.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdc2c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdc32.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdca8.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdd87.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdd92.html  →  already up-to-date / no AdSense found
+  ⏭️   indexde04.html  →  already up-to-date / no AdSense found
+  ⏭️   indexde80.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdf16.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdf27.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdf2a.html  →  already up-to-date / no AdSense found
+  ⏭️   indexdf39.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe056.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe0b9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe1d7.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe253.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe2d5.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe2de.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe38d.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe3f9.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe4dc.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe6c6.html  →  already up-to-date / no AdSense found
+  ⏭️   indexe947.html  →  already up-to-date / no AdSense found
+  ⏭️   indexea3e.html  →  already up-to-date / no AdSense found
+  ⏭️   indexea45.html  →  already up-to-date / no AdSense found
+  ⏭️   indexea99.html  →  already up-to-date / no AdSense found
+  ⏭️   indexeab1.html  →  already up-to-date / no AdSense found
+  ⏭️   indexeb41.html  →  already up-to-date / no AdSense found
+  ⏭️   indexeca5.html  →  already up-to-date / no AdSense found
+  ⏭️   indexed0f.html  →  already up-to-date / no AdSense found
+  ⏭️   indexed87.html  →  already up-to-date / no AdSense found
+  ⏭️   indexeda8.html  →  already up-to-date / no AdSense found
+  ⏭️   indexeed3.html  →  already up-to-date / no AdSense found
+  ⏭️   indexef72.html  →  already up-to-date / no AdSense found
+  ⏭️   indexefbf.html  →  already up-to-date / no AdSense found
+  ⏭️   indexefce.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf065.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf0fa.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf351.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf4ce.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf518.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf53c.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf5cb.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf843.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf8c8.html  →  already up-to-date / no AdSense found
+  ⏭️   indexf9af.html  →  already up-to-date / no AdSense found
+  ⏭️   indexfb45.html  →  already up-to-date / no AdSense found
+  ⏭️   indexfc84.html  →  already up-to-date / no AdSense found
+  ⏭️   indexfeb6.html  →  already up-to-date / no AdSense found
+  ⏭️   indexff6b.html  →  already up-to-date / no AdSense found
+  ⏭️   indexff96.html  →  already up-to-date / no AdSense found
+  ⏭️   jab-jab-boxing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   jab-jab-boxing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  jab-jab-boxing\index.html  →  stray IDs replaced
+  ⏭️   jewel-christmas-mania\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   jewel-christmas-mania\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  jewel-christmas-mania\index.html  →  stray IDs replaced
+  ⏭️   jigsaw-puzzle-cat-girl\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   jigsaw-puzzle-cat-girl\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  jigsaw-puzzle-cat-girl\index.html  →  stray IDs replaced
+  ⏭️   jigsaw-puzzle-vampirina\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   jigsaw-puzzle-vampirina\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  jigsaw-puzzle-vampirina\index.html  →  stray IDs replaced
+  ⏭️   jump-ball-classic\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   jump-ball-classic\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  jump-ball-classic\index.html  →  stray IDs replaced
+  ⏭️   kids-hospital-doctor\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   kids-hospital-doctor\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  kids-hospital-doctor\index.html  →  stray IDs replaced
+  ⏭️   kids-unicorn-dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   kids-unicorn-dress-up\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  kids-unicorn-dress-up\index.html  →  stray IDs replaced
+  ⏭️   kindergarten-school-teacher\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   kindergarten-school-teacher\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  kindergarten-school-teacher\index.html  →  stray IDs replaced
+  ⏭️   knights-vs-dragons-battle-simulator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   knights-vs-dragons-battle-simulator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  knights-vs-dragons-battle-simulator\index.html  →  stray IDs replaced
+  ⏭️   kuukiyomi-consider-it\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   kuukiyomi-consider-it\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  kuukiyomi-consider-it\index.html  →  stray IDs replaced
+  ⏭️   last-day-on-earth-survival\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   last-day-on-earth-survival\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  last-day-on-earth-survival\index.html  →  stray IDs replaced
+  ⏭️   lawn-mower\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   lawn-mower\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  lawn-mower\index.html  →  stray IDs replaced
+  ⏭️   left-or-right-women-fashions\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   left-or-right-women-fashions\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  left-or-right-women-fashions\index.html  →  stray IDs replaced
+  ⏭️   line-on-hole\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   line-on-hole\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  line-on-hole\index.html  →  stray IDs replaced
+  ⏭️   little-panda-candy-shop\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   little-panda-candy-shop\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  little-panda-candy-shop\index.html  →  stray IDs replaced
+  ⏭️   lol-beauty-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   lol-beauty-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  lol-beauty-salon\index.html  →  stray IDs replaced
+  ⏭️   love-tester\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   love-tester\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  love-tester\index.html  →  stray IDs replaced
+  ⏭️   mahjong-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mahjong-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mahjong-3d\index.html  →  stray IDs replaced
+  ⏭️   mahjong-world\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mahjong-world\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mahjong-world\index.html  →  stray IDs replaced
+  ⏭️   mahjong-world-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mahjong-world-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mahjong-world-2\index.html  →  stray IDs replaced
+  ⏭️   make-girlfriend-fashion-battle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   make-girlfriend-fashion-battle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  make-girlfriend-fashion-battle\index.html  →  stray IDs replaced
+  ⏭️   match-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   match-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  match-master\index.html  →  stray IDs replaced
+  ⏭️   mega-ramp-car-stunts\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mega-ramp-car-stunts\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mega-ramp-car-stunts\index.html  →  stray IDs replaced
+  ⏭️   meow-slide\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   meow-slide\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  meow-slide\index.html  →  stray IDs replaced
+  ⏭️   merge-numbers\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   merge-numbers\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  merge-numbers\index.html  →  stray IDs replaced
+  ⏭️   mermaid-princess-high-school\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mermaid-princess-high-school\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mermaid-princess-high-school\index.html  →  stray IDs replaced
+  ⏭️   mineblock-gun-shooting\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mineblock-gun-shooting\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mineblock-gun-shooting\index.html  →  stray IDs replaced
+  ⏭️   monkey-bounce\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   monkey-bounce\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  monkey-bounce\index.html  →  stray IDs replaced
+  ⏭️   monster-battle-runner\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   monster-battle-runner\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  monster-battle-runner\index.html  →  stray IDs replaced
+  ⏭️   monster-draft-runner-squad\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   monster-draft-runner-squad\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  monster-draft-runner-squad\index.html  →  stray IDs replaced
+  ⏭️   moto-maniac-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   moto-maniac-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  moto-maniac-2\index.html  →  stray IDs replaced
+  ⏭️   moto-x3m-pool-party\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   moto-x3m-pool-party\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  moto-x3m-pool-party\index.html  →  stray IDs replaced
+  ⏭️   mr-throw\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   mr-throw\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  mr-throw\index.html  →  stray IDs replaced
+  ⏭️   murder-case-clue-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   murder-case-clue-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  murder-case-clue-3d\index.html  →  stray IDs replaced
+  ⏭️   my-baby-unicorn-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   my-baby-unicorn-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  my-baby-unicorn-2\index.html  →  stray IDs replaced
+  ⏭️   my-little-cat\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   my-little-cat\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  my-little-cat\index.html  →  stray IDs replaced
+  ⏭️   my-little-universe\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   my-little-universe\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  my-little-universe\index.html  →  stray IDs replaced
+  ⏭️   my-perfect-hotel\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   my-perfect-hotel\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  my-perfect-hotel\index.html  →  stray IDs replaced
+  ⏭️   my-virtual-dog-care\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   my-virtual-dog-care\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  my-virtual-dog-care\index.html  →  stray IDs replaced
+  ⏭️   nana-diy-dress-cake\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   nana-diy-dress-cake\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  nana-diy-dress-cake\index.html  →  stray IDs replaced
+  ⏭️   neon-rider\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   neon-rider\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  neon-rider\index.html  →  stray IDs replaced
+  ⏭️   neon-swing\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   neon-swing\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  neon-swing\index.html  →  stray IDs replaced
+  ⏭️   neon-tower\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   neon-tower\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  neon-tower\index.html  →  stray IDs replaced
+  ⏭️   nerdy-girl-makeup-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   nerdy-girl-makeup-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  nerdy-girl-makeup-salon\index.html  →  stray IDs replaced
+  ⏭️   om-nom-bubbles\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   om-nom-bubbles\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  om-nom-bubbles\index.html  →  stray IDs replaced
+  ⏭️   om-nom-connect-classic\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   om-nom-connect-classic\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  om-nom-connect-classic\index.html  →  stray IDs replaced
+  ⏭️   om-nom-run\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   om-nom-run\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  om-nom-run\index.html  →  stray IDs replaced
+  ⏭️   om-nom-run-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   om-nom-run-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  om-nom-run-2\index.html  →  stray IDs replaced
+  ⏭️   onet-gallery-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   onet-gallery-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  onet-gallery-3d\index.html  →  stray IDs replaced
+  ⏭️   onet-gallery-3d-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   onet-gallery-3d-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  onet-gallery-3d-2\index.html  →  stray IDs replaced
+  ⏭️   onet-world\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   onet-world\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  onet-world\index.html  →  stray IDs replaced
+  ⏭️   painting-tiles\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   painting-tiles\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  painting-tiles\index.html  →  stray IDs replaced
+  ⏭️   pair-up-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pair-up-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pair-up-3d\index.html  →  stray IDs replaced
+  ⏭️   parking-panic\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   parking-panic\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  parking-panic\index.html  →  stray IDs replaced
+  ⏭️   parking-panic-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   parking-panic-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  parking-panic-2\index.html  →  stray IDs replaced
+  ⏭️   parking-rush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   parking-rush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  parking-rush\index.html  →  stray IDs replaced
+  ⏭️   parking-rush-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   parking-rush-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  parking-rush-2\index.html  →  stray IDs replaced
+  ⏭️   parkour-block-6\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   parkour-block-6\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  parkour-block-6\index.html  →  stray IDs replaced
+  ⏭️   peanut-butter-jelly-sandwich\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   peanut-butter-jelly-sandwich\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  peanut-butter-jelly-sandwich\index.html  →  stray IDs replaced
+  ⏭️   peet-a-lock\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   peet-a-lock\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  peet-a-lock\index.html  →  stray IDs replaced
+  ⏭️   peet-around\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   peet-around\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  peet-around\index.html  →  stray IDs replaced
+  ⏭️   peet-sneak\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   peet-sneak\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  peet-sneak\index.html  →  stray IDs replaced
+  ⏭️   pengu-slide\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pengu-slide\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pengu-slide\index.html  →  stray IDs replaced
+  ⏭️   pets-rush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pets-rush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pets-rush\index.html  →  stray IDs replaced
+  ⏭️   phone-case-diy-run\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   phone-case-diy-run\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  phone-case-diy-run\index.html  →  stray IDs replaced
+  ⏭️   picture-puzzles\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   picture-puzzles\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  picture-puzzles\index.html  →  stray IDs replaced
+  ⏭️   pin-board-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pin-board-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pin-board-puzzle\index.html  →  stray IDs replaced
+  ⏭️   pin-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pin-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pin-master\index.html  →  stray IDs replaced
+  ⏭️   pin-puzzle-save-the-sheep\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pin-puzzle-save-the-sheep\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pin-puzzle-save-the-sheep\index.html  →  stray IDs replaced
+  ⏭️   pipe-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pipe-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pipe-puzzle\index.html  →  stray IDs replaced
+  ⏭️   pipe-puzzle-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pipe-puzzle-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pipe-puzzle-2\index.html  →  stray IDs replaced
+  ⏭️   pirate-cards\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pirate-cards\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pirate-cards\index.html  →  stray IDs replaced
+  ⏭️   plants-vs-zombies-war\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   plants-vs-zombies-war\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  plants-vs-zombies-war\index.html  →  stray IDs replaced
+  ⏭️   pop-it-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pop-it-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pop-it-3d\index.html  →  stray IDs replaced
+  ⏭️   pop-it-duel\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pop-it-duel\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pop-it-duel\index.html  →  stray IDs replaced
+  ⏭️   princess-back-spa-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   princess-back-spa-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  princess-back-spa-salon\index.html  →  stray IDs replaced
+  ⏭️   princess-hair-makeup-salon\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   princess-hair-makeup-salon\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  princess-hair-makeup-salon\index.html  →  stray IDs replaced
+  ✅  privacy-policy\index.html  →  stray IDs replaced
+  ⏭️   public\404.html  →  already up-to-date / no AdSense found
+  ⏭️   public\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pull-pins\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pull-pins\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pull-pins\index.html  →  stray IDs replaced
+  ⏭️   pull-pins-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   pull-pins-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  pull-pins-2\index.html  →  stray IDs replaced
+  ⏭️   puzzle-box-brain-test\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   puzzle-box-brain-test\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  puzzle-box-brain-test\index.html  →  stray IDs replaced
+  ⏭️   racer-training\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   racer-training\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  racer-training\index.html  →  stray IDs replaced
+  ⏭️   ramp\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   ramp\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  ramp\index.html  →  stray IDs replaced
+  ⏭️   real-flight-simulator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   real-flight-simulator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  real-flight-simulator\index.html  →  stray IDs replaced
+  ⏭️   rising-squares\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   rising-squares\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  rising-squares\index.html  →  stray IDs replaced
+  ⏭️   rope-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   rope-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  rope-puzzle\index.html  →  stray IDs replaced
+  ⏭️   sandwich-runner\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   sandwich-runner\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  sandwich-runner\index.html  →  stray IDs replaced
+  ⏭️   santas-magic-christmas\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   santas-magic-christmas\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  santas-magic-christmas\index.html  →  stray IDs replaced
+  ⏭️   save-the-fish-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   save-the-fish-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  save-the-fish-3d\index.html  →  stray IDs replaced
+  ⏭️   save-the-princess\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   save-the-princess\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  save-the-princess\index.html  →  stray IDs replaced
+  ⏭️   scavenger-hunt\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   scavenger-hunt\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  scavenger-hunt\index.html  →  stray IDs replaced
+  ⏭️   shining-princess-fashion-makeover\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   shining-princess-fashion-makeover\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  shining-princess-fashion-makeover\index.html  →  stray IDs replaced
+  ⏭️   shirt-dye-diy\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   shirt-dye-diy\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  shirt-dye-diy\index.html  →  stray IDs replaced
+  ⏭️   slice-rush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   slice-rush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  slice-rush\index.html  →  stray IDs replaced
+  ⏭️   slime-road\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   slime-road\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  slime-road\index.html  →  stray IDs replaced
+  ⏭️   slope\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   slope\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  slope\index.html  →  stray IDs replaced
+  ⏭️   smarty-bubbles-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   smarty-bubbles-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  smarty-bubbles-2\index.html  →  stray IDs replaced
+  ⏭️   speed-master\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   speed-master\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  speed-master\index.html  →  stray IDs replaced
+  ⏭️   stack-smash\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   stack-smash\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  stack-smash\index.html  →  stray IDs replaced
+  ⏭️   stair-race-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   stair-race-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  stair-race-3d\index.html  →  stray IDs replaced
+  ⏭️   stickman-jailbreak-story\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   stickman-jailbreak-story\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  stickman-jailbreak-story\index.html  →  stray IDs replaced
+  ⏭️   stickman-warrior-way\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   stickman-warrior-way\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  stickman-warrior-way\index.html  →  stray IDs replaced
+  ⏭️   stickman-warriors\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   stickman-warriors\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  stickman-warriors\index.html  →  stray IDs replaced
+  ⏭️   super-kid-adventure\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   super-kid-adventure\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  super-kid-adventure\index.html  →  stray IDs replaced
+  ⏭️   super-thrower\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   super-thrower\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  super-thrower\index.html  →  stray IDs replaced
+  ⏭️   super-thrower-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   super-thrower-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  super-thrower-2\index.html  →  stray IDs replaced
+  ⏭️   supermarket-manager-simulator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   supermarket-manager-simulator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  supermarket-manager-simulator\index.html  →  stray IDs replaced
+  ⏭️   survivor-kingdoms\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   survivor-kingdoms\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  survivor-kingdoms\index.html  →  stray IDs replaced
+  ⏭️   sushi-roll\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   sushi-roll\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  sushi-roll\index.html  →  stray IDs replaced
+  ⏭️   sword-cut-run\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   sword-cut-run\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  sword-cut-run\index.html  →  stray IDs replaced
+  ⏭️   symbiote-rush\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   symbiote-rush\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  symbiote-rush\index.html  →  stray IDs replaced
+  ⏭️   tag\1player\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\1player\index.html  →  stray IDs replaced
+  ⏭️   tag\2048\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\2048\index.html  →  stray IDs replaced
+  ⏭️   tag\2d\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\2d\index.html  →  stray IDs replaced
+  ⏭️   tag\3d\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\3d\index.html  →  stray IDs replaced
+  ⏭️   tag\accessories\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\accessories\index.html  →  stray IDs replaced
+  ⏭️   tag\action\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\action\index.html  →  stray IDs replaced
+  ⏭️   tag\adventure\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\adventure\index.html  →  stray IDs replaced
+  ⏭️   tag\aircraft\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\aircraft\index.html  →  stray IDs replaced
+  ⏭️   tag\android\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\android\index.html  →  stray IDs replaced
+  ⏭️   tag\animal\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\animal\index.html  →  stray IDs replaced
+  ⏭️   tag\anime\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\anime\index.html  →  stray IDs replaced
+  ⏭️   tag\arcade\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\arcade\index.html  →  stray IDs replaced
+  ⏭️   tag\army\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\army\index.html  →  stray IDs replaced
+  ⏭️   tag\asmr\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\asmr\index.html  →  stray IDs replaced
+  ⏭️   tag\avatar\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\avatar\index.html  →  stray IDs replaced
+  ⏭️   tag\avoid\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\avoid\index.html  →  stray IDs replaced
+  ⏭️   tag\baby\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\baby\index.html  →  stray IDs replaced
+  ⏭️   tag\ball\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\ball\index.html  →  stray IDs replaced
+  ⏭️   tag\balloon\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\balloon\index.html  →  stray IDs replaced
+  ⏭️   tag\battleship\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\battleship\index.html  →  stray IDs replaced
+  ⏭️   tag\block\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\block\index.html  →  stray IDs replaced
+  ⏭️   tag\boat\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\boat\index.html  →  stray IDs replaced
+  ⏭️   tag\bomb\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\bomb\index.html  →  stray IDs replaced
+  ⏭️   tag\boxing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\boxing\index.html  →  stray IDs replaced
+  ⏭️   tag\boy\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\boy\index.html  →  stray IDs replaced
+  ⏭️   tag\boys\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\boys\index.html  →  stray IDs replaced
+  ⏭️   tag\brain\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\brain\index.html  →  stray IDs replaced
+  ⏭️   tag\bricks\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\bricks\index.html  →  stray IDs replaced
+  ⏭️   tag\bridge\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\bridge\index.html  →  stray IDs replaced
+  ⏭️   tag\bubble\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\bubble\index.html  →  stray IDs replaced
+  ⏭️   tag\business\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\business\index.html  →  stray IDs replaced
+  ⏭️   tag\cake\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cake\index.html  →  stray IDs replaced
+  ⏭️   tag\car\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\car\index.html  →  stray IDs replaced
+  ⏭️   tag\card\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\card\index.html  →  stray IDs replaced
+  ⏭️   tag\cartoon\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cartoon\index.html  →  stray IDs replaced
+  ⏭️   tag\casino\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\casino\index.html  →  stray IDs replaced
+  ⏭️   tag\castle\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\castle\index.html  →  stray IDs replaced
+  ⏭️   tag\cat\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cat\index.html  →  stray IDs replaced
+  ⏭️   tag\chicken\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\chicken\index.html  →  stray IDs replaced
+  ⏭️   tag\classic\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\classic\index.html  →  stray IDs replaced
+  ⏭️   tag\cleaning\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cleaning\index.html  →  stray IDs replaced
+  ⏭️   tag\collect\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\collect\index.html  →  stray IDs replaced
+  ⏭️   tag\collecting\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\collecting\index.html  →  stray IDs replaced
+  ⏭️   tag\coloring\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\coloring\index.html  →  stray IDs replaced
+  ⏭️   tag\colormatch\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\colormatch\index.html  →  stray IDs replaced
+  ⏭️   tag\connection\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\connection\index.html  →  stray IDs replaced
+  ⏭️   tag\cook\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cook\index.html  →  stray IDs replaced
+  ⏭️   tag\cooking\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cooking\index.html  →  stray IDs replaced
+  ⏭️   tag\cute\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\cute\index.html  →  stray IDs replaced
+  ⏭️   tag\decorate\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\decorate\index.html  →  stray IDs replaced
+  ⏭️   tag\defense\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\defense\index.html  →  stray IDs replaced
+  ⏭️   tag\design\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\design\index.html  →  stray IDs replaced
+  ⏭️   tag\detective\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\detective\index.html  →  stray IDs replaced
+  ⏭️   tag\doctor\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\doctor\index.html  →  stray IDs replaced
+  ⏭️   tag\drawing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\drawing\index.html  →  stray IDs replaced
+  ⏭️   tag\dress-up\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\dress-up\index.html  →  stray IDs replaced
+  ⏭️   tag\drift\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\drift\index.html  →  stray IDs replaced
+  ⏭️   tag\driving\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\driving\index.html  →  stray IDs replaced
+  ⏭️   tag\educational\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\educational\index.html  →  stray IDs replaced
+  ⏭️   tag\endless\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\endless\index.html  →  stray IDs replaced
+  ⏭️   tag\escape\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\escape\index.html  →  stray IDs replaced
+  ⏭️   tag\fashion\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\fashion\index.html  →  stray IDs replaced
+  ⏭️   tag\fighting\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\fighting\index.html  →  stray IDs replaced
+  ⏭️   tag\fish\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\fish\index.html  →  stray IDs replaced
+  ⏭️   tag\fishing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\fishing\index.html  →  stray IDs replaced
+  ⏭️   tag\flight\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\flight\index.html  →  stray IDs replaced
+  ⏭️   tag\food\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\food\index.html  →  stray IDs replaced
+  ⏭️   tag\forest\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\forest\index.html  →  stray IDs replaced
+  ⏭️   tag\fruit\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\fruit\index.html  →  stray IDs replaced
+  ⏭️   tag\funny\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\funny\index.html  →  stray IDs replaced
+  ⏭️   tag\girl\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\girl\index.html  →  stray IDs replaced
+  ⏭️   tag\girls\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\girls\index.html  →  stray IDs replaced
+  ⏭️   tag\girls-2\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\girls-2\index.html  →  stray IDs replaced
+  ⏭️   tag\guessing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\guessing\index.html  →  stray IDs replaced
+  ⏭️   tag\gun\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\gun\index.html  →  stray IDs replaced
+  ⏭️   tag\hair\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\hair\index.html  →  stray IDs replaced
+  ⏭️   tag\hidden\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\hidden\index.html  →  stray IDs replaced
+  ⏭️   tag\hide\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\hide\index.html  →  stray IDs replaced
+  ⏭️   tag\highscore\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\highscore\index.html  →  stray IDs replaced
+  ⏭️   tag\horror\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\horror\index.html  →  stray IDs replaced
+  ⏭️   tag\html5\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\html5\index.html  →  stray IDs replaced
+  ⏭️   tag\jailbreak\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\jailbreak\index.html  →  stray IDs replaced
+  ⏭️   tag\jewels\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\jewels\index.html  →  stray IDs replaced
+  ⏭️   tag\jigsaw\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\jigsaw\index.html  →  stray IDs replaced
+  ⏭️   tag\jumping\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\jumping\index.html  →  stray IDs replaced
+  ⏭️   tag\kidgames\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\kidgames\index.html  →  stray IDs replaced
+  ⏭️   tag\kids\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\kids\index.html  →  stray IDs replaced
+  ⏭️   tag\kids-friendly\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\kids-friendly\index.html  →  stray IDs replaced
+  ⏭️   tag\killing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\killing\index.html  →  stray IDs replaced
+  ⏭️   tag\launch\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\launch\index.html  →  stray IDs replaced
+  ⏭️   tag\logic\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\logic\index.html  →  stray IDs replaced
+  ⏭️   tag\logical\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\logical\index.html  →  stray IDs replaced
+  ⏭️   tag\makeover-make-up\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\makeover-make-up\index.html  →  stray IDs replaced
+  ⏭️   tag\management\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\management\index.html  →  stray IDs replaced
+  ⏭️   tag\match-3\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\match-3\index.html  →  stray IDs replaced
+  ⏭️   tag\match3\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\match3\index.html  →  stray IDs replaced
+  ⏭️   tag\matching\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\matching\index.html  →  stray IDs replaced
+  ⏭️   tag\math\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\math\index.html  →  stray IDs replaced
+  ⏭️   tag\maze\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\maze\index.html  →  stray IDs replaced
+  ⏭️   tag\memory\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\memory\index.html  →  stray IDs replaced
+  ⏭️   tag\mermaid\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\mermaid\index.html  →  stray IDs replaced
+  ⏭️   tag\minecraft\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\minecraft\index.html  →  stray IDs replaced
+  ⏭️   tag\mobile\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\mobile\index.html  →  stray IDs replaced
+  ⏭️   tag\monster\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\monster\index.html  →  stray IDs replaced
+  ⏭️   tag\multiplayer\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\multiplayer\index.html  →  stray IDs replaced
+  ⏭️   tag\nail\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\nail\index.html  →  stray IDs replaced
+  ⏭️   tag\no-blood\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\no-blood\index.html  →  stray IDs replaced
+  ⏭️   tag\no-cruelty\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\no-cruelty\index.html  →  stray IDs replaced
+  ⏭️   tag\number\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\number\index.html  →  stray IDs replaced
+  ⏭️   tag\obstacle\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\obstacle\index.html  →  stray IDs replaced
+  ⏭️   tag\paint\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\paint\index.html  →  stray IDs replaced
+  ⏭️   tag\panda\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\panda\index.html  →  stray IDs replaced
+  ⏭️   tag\parkour\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\parkour\index.html  →  stray IDs replaced
+  ⏭️   tag\physics\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\physics\index.html  →  stray IDs replaced
+  ⏭️   tag\pin\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\pin\index.html  →  stray IDs replaced
+  ⏭️   tag\pixel\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\pixel\index.html  →  stray IDs replaced
+  ⏭️   tag\plant\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\plant\index.html  →  stray IDs replaced
+  ⏭️   tag\platform\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\platform\index.html  →  stray IDs replaced
+  ⏭️   tag\platformer\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\platformer\index.html  →  stray IDs replaced
+  ⏭️   tag\princess\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\princess\index.html  →  stray IDs replaced
+  ⏭️   tag\prison\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\prison\index.html  →  stray IDs replaced
+  ⏭️   tag\puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\puzzle\index.html  →  stray IDs replaced
+  ⏭️   tag\quest\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\quest\index.html  →  stray IDs replaced
+  ⏭️   tag\quiz\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\quiz\index.html  →  stray IDs replaced
+  ⏭️   tag\racing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\racing\index.html  →  stray IDs replaced
+  ⏭️   tag\relaxation\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\relaxation\index.html  →  stray IDs replaced
+  ⏭️   tag\relaxing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\relaxing\index.html  →  stray IDs replaced
+  ⏭️   tag\rescue\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\rescue\index.html  →  stray IDs replaced
+  ⏭️   tag\retro\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\retro\index.html  →  stray IDs replaced
+  ⏭️   tag\rocket\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\rocket\index.html  →  stray IDs replaced
+  ⏭️   tag\room\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\room\index.html  →  stray IDs replaced
+  ⏭️   tag\roomescape\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\roomescape\index.html  →  stray IDs replaced
+  ⏭️   tag\rpg\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\rpg\index.html  →  stray IDs replaced
+  ⏭️   tag\runner\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\runner\index.html  →  stray IDs replaced
+  ⏭️   tag\running\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\running\index.html  →  stray IDs replaced
+  ⏭️   tag\school\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\school\index.html  →  stray IDs replaced
+  ⏭️   tag\shooting\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\shooting\index.html  →  stray IDs replaced
+  ⏭️   tag\shopping\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\shopping\index.html  →  stray IDs replaced
+  ⏭️   tag\simulation\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\simulation\index.html  →  stray IDs replaced
+  ⏭️   tag\skill\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\skill\index.html  →  stray IDs replaced
+  ⏭️   tag\slide\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\slide\index.html  →  stray IDs replaced
+  ⏭️   tag\sliding-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\sliding-puzzle\index.html  →  stray IDs replaced
+  ⏭️   tag\sniper\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\sniper\index.html  →  stray IDs replaced
+  ⏭️   tag\sorting\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\sorting\index.html  →  stray IDs replaced
+  ⏭️   tag\space\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\space\index.html  →  stray IDs replaced
+  ⏭️   tag\stickman\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\stickman\index.html  →  stray IDs replaced
+  ⏭️   tag\strategy\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\strategy\index.html  →  stray IDs replaced
+  ⏭️   tag\stunts\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\stunts\index.html  →  stray IDs replaced
+  ⏭️   tag\sudoku\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\sudoku\index.html  →  stray IDs replaced
+  ⏭️   tag\surgery\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\surgery\index.html  →  stray IDs replaced
+  ⏭️   tag\survival\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\survival\index.html  →  stray IDs replaced
+  ⏭️   tag\sword\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\sword\index.html  →  stray IDs replaced
+  ⏭️   tag\tetris\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\tetris\index.html  →  stray IDs replaced
+  ⏭️   tag\thinking\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\thinking\index.html  →  stray IDs replaced
+  ⏭️   tag\timekiller\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\timekiller\index.html  →  stray IDs replaced
+  ⏭️   tag\timing\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\timing\index.html  →  stray IDs replaced
+  ⏭️   tag\tower-defense\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\tower-defense\index.html  →  stray IDs replaced
+  ⏭️   tag\train\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\train\index.html  →  stray IDs replaced
+  ⏭️   tag\truck\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\truck\index.html  →  stray IDs replaced
+  ⏭️   tag\vampire\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\vampire\index.html  →  stray IDs replaced
+  ⏭️   tag\war\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\war\index.html  →  stray IDs replaced
+  ⏭️   tag\zombie\feed\index.html  →  already up-to-date / no AdSense found
+  ✅  tag\zombie\index.html  →  stray IDs replaced
+  ⏭️   tap-away\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tap-away\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tap-away\index.html  →  stray IDs replaced
+  ⏭️   tap-tap-dunk\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tap-tap-dunk\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tap-tap-dunk\index.html  →  stray IDs replaced
+  ⏭️   taxi-simulator\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   taxi-simulator\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  taxi-simulator\index.html  →  stray IDs replaced
+  ✅  terms-of-service\index.html  →  stray IDs replaced
+  ⏭️   the-final-riddle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   the-final-riddle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  the-final-riddle\index.html  →  stray IDs replaced
+  ⏭️   thief-puzzle\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   thief-puzzle\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  thief-puzzle\index.html  →  stray IDs replaced
+  ⏭️   thief-puzzle-to-pass-a-level\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   thief-puzzle-to-pass-a-level\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  thief-puzzle-to-pass-a-level\index.html  →  stray IDs replaced
+  ⏭️   tidy-life-organizer-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tidy-life-organizer-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tidy-life-organizer-3d\index.html  →  stray IDs replaced
+  ⏭️   tile-journey\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tile-journey\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tile-journey\index.html  →  stray IDs replaced
+  ⏭️   tnt-bomb\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tnt-bomb\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tnt-bomb\index.html  →  stray IDs replaced
+  ⏭️   tnt-bomb-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tnt-bomb-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tnt-bomb-2\index.html  →  stray IDs replaced
+  ⏭️   toilet-run\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   toilet-run\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  toilet-run\index.html  →  stray IDs replaced
+  ⏭️   tower-crash-3d\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tower-crash-3d\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tower-crash-3d\index.html  →  stray IDs replaced
+  ⏭️   tower-fall\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tower-fall\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tower-fall\index.html  →  stray IDs replaced
+  ⏭️   tower-smash\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tower-smash\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tower-smash\index.html  →  stray IDs replaced
+  ⏭️   tower-smash-level\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   tower-smash-level\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  tower-smash-level\index.html  →  stray IDs replaced
+  ⏭️   traffic-control\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   traffic-control\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  traffic-control\index.html  →  stray IDs replaced
+  ⏭️   traffic-tom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   traffic-tom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  traffic-tom\index.html  →  stray IDs replaced
+  ⏭️   traffic-tom-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   traffic-tom-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  traffic-tom-2\index.html  →  stray IDs replaced
+  ⏭️   train-2048\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   train-2048\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  train-2048\index.html  →  stray IDs replaced
+  ⏭️   train-2048-2\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   train-2048-2\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  train-2048-2\index.html  →  stray IDs replaced
+  ⏭️   train-shooting\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   train-shooting\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  train-shooting\index.html  →  stray IDs replaced
+  ⏭️   twisty-lines\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   twisty-lines\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  twisty-lines\index.html  →  stray IDs replaced
+  ⏭️   two-friends\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   two-friends\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  two-friends\index.html  →  stray IDs replaced
+  ⏭️   uncle-ahmed\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   uncle-ahmed\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  uncle-ahmed\index.html  →  stray IDs replaced
+  ⏭️   what-color-are-these-fruits\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   what-color-are-these-fruits\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  what-color-are-these-fruits\index.html  →  stray IDs replaced
+  ⏭️   words-of-wonders\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   words-of-wonders\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  words-of-wonders\index.html  →  stray IDs replaced
+  ⏭️   world-war-fight-for-freedom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   world-war-fight-for-freedom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  world-war-fight-for-freedom\index.html  →  stray IDs replaced
+  ⏭️   wp-content\themes\myfriv\dahab\pages\elzero_contact\index.html  →  already up-to-date / no AdSense found
+  ✅  wp-content\themes\myfriv\dahab\pages\elzero_contact\Popover requires tooltip.html  →  script tag (11x)
+  ⏭️   wp-json\index.html  →  already up-to-date / no AdSense found
+  ⏭️   wp-login.html  →  already up-to-date / no AdSense found
+  ⏭️   wp-loginc2b6.html  →  already up-to-date / no AdSense found
+  ⏭️   zen-hanoi\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   zen-hanoi\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  zen-hanoi\index.html  →  stray IDs replaced
+  ⏭️   zoo-boom\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   zoo-boom\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  zoo-boom\index.html  →  stray IDs replaced
+  ⏭️   zoo-feeder\feed\index.html  →  already up-to-date / no AdSense found
+  ⏭️   zoo-feeder\fullscreen\index.html  →  already up-to-date / no AdSense found
+  ✅  zoo-feeder\index.html  →  stray IDs replaced
+
+Files modified: 621 / 2124
